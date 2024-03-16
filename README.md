@@ -9,5 +9,6 @@ During data retrieval, the app displays a progress bar with the text "Loading" t
 It also handles possible errors during data retrieval.
 
 The architecture follows the MVVM pattern, and pagination is implemented for efficient data handling. 
+
 Thank you.
 
